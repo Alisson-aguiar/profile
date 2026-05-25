@@ -27,7 +27,7 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div align="start">
 
 ### Front-end
 <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,tailwind,bootstrap" />
@@ -50,7 +50,7 @@
 
 ## 🎨 Web Design & Criação
 
-<div align="center">
+<div align="start">
 
 ✔️ **Landing Pages** de alta conversão  
 ✔️ **Sites institucionais** responsivos  
@@ -174,7 +174,7 @@ Landing page corporativa de alta conversão desenvolvida para campanha de market
 
 ## 🎨 UI/UX & Design - Portfólio de Cases
 
-<div align="center">
+<div align="start">
 
 ✔️ Prototipação e wireframes no **Figma**  
 ✔️ Design responsivo **Mobile First**  
@@ -230,9 +230,6 @@ Landing page corporativa de alta conversão desenvolvida para campanha de market
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alisson%20Aguiar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisson-aguiars2k/)
-[![GitHub](https://img.shields.io/badge/GitHub-Alisson--aguiar-181717?style=for-the-badge&logo=github)]
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00C2FF?style=for-the-badge&logo=vercel&logoColor=white)](https://saas-analytics-platform-six.vercel.app)
-[![Behance](https://img.shields.io/badge/Behance-Portfólio-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/)
 
 </div>
 
