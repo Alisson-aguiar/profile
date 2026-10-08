@@ -18,15 +18,6 @@
 ## 🚀 Sobre mim
 
 💻 Desenvolvedor Web | Full Stack | UI/UX
-🎨 Experiência no desenvolvimento de sites institucionais, landing pages, e-commerces e aplicações web, com foco em soluções funcionais, responsivas e orientadas à experiência do usuário.
-⚙️ Trabalho com React, Next.js, TypeScript, JavaScript, PHP, Laravel, WordPress, WooCommerce, MySQL e APIs, utilizando código e plataformas web conforme as necessidades de cada projeto.
-🤖 Utilizo IA e ferramentas de desenvolvimento assistido para acelerar processos, sempre revisando e validando as soluções geradas.
-📈 Busco construir produtos com boa performance, organização, escalabilidade e excelente experiência de uso.
-🔍 Conhecimentos em SEO, UI/UX, design responsivo e otimização de conversão.
-
-Se quiser algo mais forte para o portfólio:
-
-💻 Desenvolvedor Web | Full Stack | UI/UX
 Construo sites, landing pages, e-commerces e aplicações web, combinando desenvolvimento, tecnologia e experiência do usuário.
 
 ⚙️ React • Next.js • TypeScript • JavaScript • PHP • Laravel • WordPress • WooCommerce • MySQL • APIs
